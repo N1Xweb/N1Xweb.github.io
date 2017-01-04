@@ -1,0 +1,8 @@
+title: N1xweb.GitHub.io
+description: N1Xweb
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
