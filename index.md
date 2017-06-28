@@ -7,5 +7,5 @@
 <hr>
 
 ## All rights reserved. 
-itsN1X © 2017.
-[ N1X.website ]™
+itsN1X © 2017.<br>
+# [ N1X.website ]™
